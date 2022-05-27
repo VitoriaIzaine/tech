@@ -1,0 +1,16 @@
+[
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\ctim\\\\Desktop\\\\TECHMAN\\\\TECH\\\\Frontend\\\\pages\\\\home\\\\index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_79cd37a7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ctim\\\\Desktop\\\\TECHMAN\\\\TECH\\\\Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a452b334"
+  }
+]
